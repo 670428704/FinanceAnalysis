@@ -89,6 +89,7 @@ def PlotKLine(dfcvs):
 
     formatter = MyFormatter(data_mat[:, 0])
     ax.xaxis.set_major_formatter(formatter)
+
     for label in ax.get_xticklabels():
         label.set_rotation(45)
         label.set_horizontalalignment('right')
@@ -96,25 +97,15 @@ def PlotKLine(dfcvs):
     plt.show()
 
 
-
-
-
-
-
-    plt.show()
-
 if __name__ == "__main__":
     df = GetDalyKLin('002495.SZ','20180101','20181231')
+    print( df.axes )
     df = GetKLineData(df)
     print(df)
     PlotKLine(df)
     # dateTest = ['20181228','20181227']
 
     # PlotKLineIden(df,dateTest)
-
-
-
-
 
 
     # code, name,ListedTime=GetAllShareCode()

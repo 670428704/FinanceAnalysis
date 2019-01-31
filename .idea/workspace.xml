@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bedc4910-e247-4c93-82ed-a1a0a1deeff8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AssetsIncome/AssetsIncomeData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssetsIncome/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeanLine/GetMeanLine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeanLine/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KLineAnalysis/GetDate.py" beforeDir="false" afterPath="$PROJECT_DIR$/KLineAnalysis/GetDate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KLineAnalysis/KLineFeatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/KLineAnalysis/KLineFeatures.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,52 +19,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/1_2$test.coverage" NAME="test Coverage Results" MODIFIED="1547830328485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/1_2$KLineFeatures.coverage" NAME="KLineFeatures Coverage Results" MODIFIED="1548516650985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KLineAnalysis" />
-    <SUITE FILE_PATH="coverage/1_2$GetDate.coverage" NAME="GetDate Coverage Results" MODIFIED="1548672316101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KLineAnalysis" />
+    <SUITE FILE_PATH="coverage/1_2$test.coverage" NAME="test Coverage Results" MODIFIED="1548773579329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_2$GetDate.coverage" NAME="GetDate Coverage Results" MODIFIED="1548905121086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KLineAnalysis" />
+    <SUITE FILE_PATH="coverage/1_2$KLineFeatures.coverage" NAME="KLineFeatures Coverage Results" MODIFIED="1548916032763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KLineAnalysis" />
     <SUITE FILE_PATH="coverage/1_2$setup.coverage" NAME="setup Coverage Results" MODIFIED="1548605262910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1502188483">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.38" value="3" />
+          <entry key="project.open.time.38" value="4" />
           <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.63" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="4189" />
+          <entry key="py" value="5149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="4189" />
+          <entry key="Python" value="5149" />
         </counts>
       </usages-collector>
     </session>
@@ -71,30 +80,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KLineAnalysis/KLineFeatures.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-              <folding>
-                <element signature="e#86#104#0" expanded="true" />
-                <marker date="1548580584532" expanded="true" signature="331:338" ph="..." />
-              </folding>
+            <state relative-caret-position="24">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KLineAnalysis/KLineFeatures.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+              <folding>
+                <element signature="e#86#104#0" expanded="true" />
+                <marker date="1548916310408" expanded="true" signature="1782:1787" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+            <state relative-caret-position="312">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -102,8 +111,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KLineAnalysis/GetDate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-912">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="131">
+              <caret line="100" column="31" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="31" />
+              <folding>
+                <element signature="e#42#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MeanLine/GetMeanLine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AssetsIncome/AssetsIncomeData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -135,10 +165,12 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/KLineAnalysis/TrendAnalysis.py" />
         <option value="$PROJECT_DIR$/KLineAnalysis/SingleKLine.py" />
-        <option value="$PROJECT_DIR$/KLineAnalysis/GetDate.py" />
-        <option value="$PROJECT_DIR$/KLineAnalysis/KLineFeatures.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/AssetsIncome/AssetsIncomeData.py" />
+        <option value="$PROJECT_DIR$/MeanLine/GetMeanLine.py" />
+        <option value="$PROJECT_DIR$/KLineAnalysis/GetDate.py" />
+        <option value="$PROJECT_DIR$/KLineAnalysis/KLineFeatures.py" />
       </list>
     </option>
   </component>
@@ -149,18 +181,19 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1961" />
-    <option name="y" value="101" />
-    <option name="width" value="1452" />
-    <option name="height" value="867" />
+    <option name="x" value="792" />
+    <option name="y" value="48" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,12 +204,13 @@
             <path>
               <item name="1.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="1.2" type="462c0819:PsiDirectoryNode" />
-              <item name="KLineAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="AssetsIncome" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GetDate">
+  <component name="RunManager" selected="Python.KLineFeatures">
     <configuration name="GetDate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,10 +333,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GetDate" />
-        <item itemvalue="Python.setup" />
         <item itemvalue="Python.KLineFeatures" />
+        <item itemvalue="Python.GetDate" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.setup" />
       </list>
     </recent_temporary>
   </component>
@@ -320,15 +354,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="48" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2034384" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15991472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32635984" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26086956" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,13 +371,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32775453" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32775453" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.32995737" />
-      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.29083094" />
+      <window_info active="true" anchor="right" id="SciView" order="4" visible="true" weight="0.2675906" />
       <window_info anchor="right" id="R Graphics" order="5" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="right" id="Database" order="7" />
@@ -361,19 +395,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="24">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KLineAnalysis/KLineFeatures.py">
+    <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding>
-            <element signature="e#86#104#0" expanded="true" />
-            <marker date="1548580584532" expanded="true" signature="331:338" ph="..." />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssetsIncome/AssetsIncomeData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -384,17 +421,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KLineAnalysis/GetDate.py">
+    <entry file="file://$PROJECT_DIR$/MeanLine/GetMeanLine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-912">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
+    <entry file="file://$PROJECT_DIR$/KLineAnalysis/GetDate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        <state relative-caret-position="131">
+          <caret line="100" column="31" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="31" />
+          <folding>
+            <element signature="e#42#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KLineAnalysis/KLineFeatures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <element signature="e#86#104#0" expanded="true" />
+            <marker date="1548916310408" expanded="true" signature="1782:1787" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
